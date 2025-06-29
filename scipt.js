@@ -10,16 +10,22 @@ document.getElementById('apply-btn').addEventListener('click', function() {
 });
 
 
+// Generate a random hex color
+
+
 // Generate random hex color
 
 // Generate a random hex color
+
 
 function randomHex() {
   return '#' + Math.floor(Math.random()*16777215).toString(16).padStart(6,'0');
 }
 
 
+
 // Apply random color on button clicks
+
 
 // Apply random color on button click
 document.getElementById('random-btn').addEventListener('click', function() {
@@ -29,6 +35,9 @@ document.getElementById('random-btn').addEventListener('click', function() {
 
 // Branch 2
 
+// Branch 2
+
 // Branch 3
 
 // Branch 2
+
